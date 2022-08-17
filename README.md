@@ -13,6 +13,8 @@
 
  pip2 install bs4
  
+ rm -rf FILE
+ 
   git clone https://github.com/Shuvo-BBHH/FILE
   
   cd FILE
